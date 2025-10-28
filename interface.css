@@ -8,6 +8,8 @@ body{
 .icon{
     display:flex;
     justify-content: end;
+    padding: 10px 10px;
+    margin: 12px 12px;
 
 }
 .icon:hover{
@@ -84,4 +86,5 @@ h1:hover{
     transform: translateY(10px);
     transform: rotate(3deg);
     
+
 }
