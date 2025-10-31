@@ -35,25 +35,6 @@ h3{
 }
 .shop:hover{
     cursor: pointer;
-    
-
-}
-nav a{
-   text-decoration: none;
-    margin: 7px;
-    text-align: center;
-    color: darkgray; 
-    margin-left: 65px;
-    color: brown;
-    border: 1px solid black;
-    border-radius: 0.5rem;
-    background-color: greenyellow;
-    
-}
-nav a:hover{
-    color: black;
-    background-color: bisque;
-    transition: 0.5s;
 }
 .correct{
     justify-content: center;
@@ -91,6 +72,7 @@ background-color: yellow;
     
 
 }
+
 
 
 
